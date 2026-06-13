@@ -1,6 +1,6 @@
 {
   "name": "@zhangzwd/mcp-gateway",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Personal MCP Gateway - aggregate multiple MCP servers into one stdio interface",
   "type": "module",
   "bin": {
