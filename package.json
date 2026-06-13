@@ -1,0 +1,15 @@
+{
+  "name": "zhangzwd-mcp-gateway",
+  "version": "1.0.1",
+  "description": "Personal MCP Gateway - aggregate multiple MCP servers into one stdio interface",
+  "type": "module",
+  "bin": {
+    "mcp-gateway": "gateway.js"
+  },
+  "files": [
+    "gateway.js"
+  ],
+"dependencies": {
+    "@modelcontextprotocol/sdk": "^1.15.0"
+  }
+}
