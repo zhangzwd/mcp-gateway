@@ -7,9 +7,19 @@
     "mcp-gateway": "gateway.js"
   },
   "files": [
-    "gateway.js"
+    "gateway.js",
+    "LICENSE"
   ],
-"dependencies": {
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangzwd/mcp-gateway.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhangzwd/mcp-gateway/issues"
+  },
+  "homepage": "https://github.com/zhangzwd/mcp-gateway#readme",
+  "license": "MIT",
+  "dependencies": {
     "@modelcontextprotocol/sdk": "^1.15.0"
   }
 }
